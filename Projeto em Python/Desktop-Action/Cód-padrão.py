@@ -7,4 +7,5 @@ from selenium.webdriver.common.by import By
 #Estrutura Montada
 servico = Service(ChromeDriverManager().install())
 navegador = webdriver.Chrome(service=servico)
-navegador.get("https://www.google.com/webhp?hl=pt-BR&sa=X&ved=0ahUKEwiVhJGQ-fj6AhXUnpUCHUOFDwUQPAgI")
+navegador.get("https://www.google.com")
+
