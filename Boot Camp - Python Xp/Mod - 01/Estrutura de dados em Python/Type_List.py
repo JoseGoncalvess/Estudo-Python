@@ -28,6 +28,14 @@ pesoa.append(999)
 print(pesoa)
 pesoa.remove(pesoa[0])
 print(pesoa)
+#FUNÇÕES DE OPERAÇÃO +,*,IN
+l11 =[1,4,'a', 'y']
+l12 =[none,true,'v', 'y']
+print(l11+l12)#SOMO AS LISTAS
+print(l12*2)#REPITO A LISTA XX
+print(l11 in l12)#VERIFICO SE OS ELEMNETOS CONTEM DENTRO DA LISTA
+
+
 # FUNÇÕES IMPORTANTE
 num = [3, 2, 5, 9, 8, 4, 45, 36, 32]
 print(len(num))  # QUANTIDADE D EELEMENTO DA LISTA
@@ -41,5 +49,5 @@ print(num.pop())  # REMOVO O ULTIMO INTEMDA LISTA
 print(num.clear())  # OLIMPA  ALISTA(EXCLUIR)
 # RETORNA O VALOR DA POSIÇÃO QUE PASSEI EM SUA PRIMEIRA APARIÇÃO
 num = [3, 2, 5, 9, 8, 4, 45, 36, 32]
-print(num.index(45))
+print(num.index(45))# RETORNA A POSIÇÃO DO ELEMENTO DENTRO DA LISTA
 print(num.count(4))  # RETORNA QUANTAS VEZES ESSE ELEMENT APARECEU NA LISTA
