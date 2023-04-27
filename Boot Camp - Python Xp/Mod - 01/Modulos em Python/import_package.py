@@ -7,3 +7,7 @@ print(colorama.Fore.BLUE+'Mudei')
 print(colorama.Back.BLUE+ colorama.Fore.WHITE +'Mudei')
 #RESET DO ESTILOS
 print(colorama.Style.RESET_ALL+'Mudei')
+
+#PIP INSTAL
+#PIP INSTALL --UPGRADE <PAKAGE>
+#PIP INSTALL <PAKAGE> -VERSION_

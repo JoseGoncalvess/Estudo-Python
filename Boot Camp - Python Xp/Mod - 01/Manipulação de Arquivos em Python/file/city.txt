@@ -1,0 +1,9 @@
+PB; Zabelé; 239365
+PE; Arcoverde; 834784
+CE; Teresina; 538433
+BA; Salvador; 990000
+SP; Sao Paulo; 1290000
+BA; Macaubas; 190000
+RS; Rio Grande do Sul; 120000
+AM; Manaus; 1404500
+RJ; Rio de Janeiro; 1945400
