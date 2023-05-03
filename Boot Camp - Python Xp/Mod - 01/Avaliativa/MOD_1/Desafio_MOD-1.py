@@ -1,3 +1,11 @@
+import Processalista
+from Processalista import*
+import Processalista as pl
+
+
+
+
+
 #QUESTÃO 1- EXECUTAR O COD ABAIXO
 # relação dos nomes
 nomes = ['Maria', 'Julieta', 'Fernando', 'Cristiano', 'Julieta', 'Maria', 'Fernando', 'Cláudio']
@@ -9,6 +17,13 @@ for nome in nomes:
 
 print(qtd_letras) #// {'Maria': 5, 'Julieta': 7, 'Fernando': 8, 'Cristiano': 9, 'Cláudio': 7}
 
+#Questãod a ativdade
+print(type(nomes))
+print(type(qtd_letras))
+
+#qustão da atividade
+print(len(nomes))
+print(len(qtd_letras))
 
 
 
